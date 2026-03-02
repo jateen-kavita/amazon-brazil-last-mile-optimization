@@ -20,7 +20,6 @@ efficiency to identify improvement opportunities.
 - PowerPoint / PDF for presentation
 
 ## 📁 Repository Structure
-- `data/` → datasets used for analysis
+- `dataset/` → datasets used for analysis
 - `sql/` → analysis queries
-- `analysis/` → insights & findings
-- `presentation/` → final presentation
+- `case study/` → final presentation
