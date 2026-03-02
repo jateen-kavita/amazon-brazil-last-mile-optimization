@@ -24,7 +24,3 @@ efficiency to identify improvement opportunities.
 - `sql/` → analysis queries
 - `analysis/` → insights & findings
 - `presentation/` → final presentation
-
-## ⚠️ Disclaimer
-This project uses **simulated or anonymized data** and is created purely for
-learning and portfolio demonstration purposes.
